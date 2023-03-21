@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665439406 source:c:\users\acer\documents\facul\4 periodo\estrutura de dados\t 2\atividade_02\main.cpp
+	<iostream>
+	"FilaDuplamenteEncadeada.h"
+
+1665439338 c:\users\acer\documents\facul\4 periodo\estrutura de dados\t 2\atividade_02\filaduplamenteencadeada.h
+	<iostream>
+
