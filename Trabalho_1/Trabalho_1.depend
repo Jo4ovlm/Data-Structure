@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662579563 source:c:\users\jo4ov\onedrive\Área de trabalho\faculdade\4 semestre\estrutura de dados\trabalho_1\main.cpp
+	<iostream>
+	"LISTA.h"
+
+1662580241 c:\users\jo4ov\onedrive\Área de trabalho\faculdade\4 semestre\estrutura de dados\trabalho_1\lista.h
+	<iostream>
+
