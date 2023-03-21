@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665163971 source:c:\users\jo4ov\onedrive\Área de trabalho\faculdade\3 semestre\algoritimos 2\questao_2\main.cpp
+	<iostream>
+	"Fila_Dinamica_Generica.h"
+
+1665164349 c:\users\jo4ov\onedrive\Área de trabalho\faculdade\3 semestre\algoritimos 2\questao_2\fila_dinamica_generica.h
+	<iostream>
+
